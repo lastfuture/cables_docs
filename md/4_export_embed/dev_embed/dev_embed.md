@@ -109,7 +109,7 @@ For performance Reasons, you should pause the patch, when its not visible using`
 
 # Transparent Patch
 
-make sure `clear` checkbox is NOT checked in mainloop.
+make sure `clear` and `clearAlpha` checkboxes are NOT checked in mainloop.
 
 in patch options set the following canvas context attributes:
 
